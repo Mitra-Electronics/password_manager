@@ -1,0 +1,18 @@
+build
+logs.log
+.idea
+__pycache__
+stream.py
+dist
+Class Based PyQt5
+setup.py
+cctv.py
+db.db
+d.csv
+Login.ui
+Password_generator.py
+Password_generator.spec
+test_database_sqlite3.py
+test.py
+video.avi
+video.mp4
